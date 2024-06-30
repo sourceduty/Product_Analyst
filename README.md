@@ -1,4 +1,4 @@
-![6](https://github.com/sourceduty/Product_Analyst/assets/123030236/c6dad048-fdcc-445e-91b7-b2b2300ba279)
+![1](https://github.com/sourceduty/Product_Analyst/assets/123030236/fb46ee7e-651f-490f-a809-9e7509c7db47)
 
 > Assess the latest products on Amazon in any country. Create a Product Assessment Report.
 
